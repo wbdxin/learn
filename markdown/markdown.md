@@ -38,3 +38,8 @@ ___bold-italic___  \_\_\_bold-italic\_\_\_
 ---  
 ___  
 
+## delete line  
+\~\~text\~\~  
+~~text~~  
+
+
