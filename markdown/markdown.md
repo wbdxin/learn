@@ -52,3 +52,11 @@ footnote \[\^note\]
 footnote [^note]  
 [^note]:learn footnote  
 
+## list  
+
+noorder list  
+\*,\+,\-  
+* item1  
++ item2  
+- item3  
+
