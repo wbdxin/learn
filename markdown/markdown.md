@@ -60,3 +60,15 @@ noorder list
 + item2  
 - item3  
 
+order list  
+number. item  
+1. item1  
+2. item2  
+3. item3  
+
+nest list  
+add 2/4 space in front of sub-list  
+
+1. item1  
+  * sub-item1  
+
