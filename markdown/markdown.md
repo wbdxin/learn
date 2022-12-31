@@ -26,10 +26,4 @@ use # mark 1-6 level heading
 
 ## font  
 
-1. * italic font *  \* text \*  
-2. _ italic font _  \_ text \_  
-3. ** bold font **  \*\* text \*\*  
-4. __ bold font __  \_\_ text \_\_  
-5. *** italic and bold font *** \*\*\* text \*\*\*  
-6. ___ italic and bold font \_\_\_ text \_\_\_  
 
