@@ -25,5 +25,13 @@ use # mark 1-6 level heading
 2. empty row for paragraph  
 
 ## font  
+*italic*  \*italic\*  
+_italic_  \_italic\_  
+**bold**  \*\*bold\*\*  
+__bold__  \_\_bold\_\_  
+***bold-italic***  \*\*\*bold-italic\*\*\*  
+___bold-italic___  \_\_\_bold-italic\_\_\_  
+
+
 
 
