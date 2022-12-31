@@ -70,5 +70,5 @@ nest list
 add 2/4 space in front of sub-list  
 
 1. item1  
-  * sub-item1  
+    * sub-item1  
 
