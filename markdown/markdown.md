@@ -44,5 +44,11 @@ ___
 
 ## underline  
 \<u\>text\<\/u\>  
-<u>text</u>
+<u>text</u>  
+
+## footnote  
+
+footnote \[\^note\]  
+footnote [^note]  
+[^note]:learn footnote  
 
