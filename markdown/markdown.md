@@ -32,6 +32,9 @@ __bold__  \_\_bold\_\_
 ***bold-italic***  \*\*\*bold-italic\*\*\*  
 ___bold-italic___  \_\_\_bold-italic\_\_\_  
 
-
-
+## Dividing line  
+\*\*\*,\-\-\-,\_\_\_,three symbol  
+***  
+---  
+___  
 
