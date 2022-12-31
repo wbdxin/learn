@@ -43,5 +43,5 @@ ___
 ~~text~~  
 
 ## underline  
-\<u\>text\<u\>  
-<u>text<u>  
+\<u\>text\<\/u\>  
+<u>text</u>  
