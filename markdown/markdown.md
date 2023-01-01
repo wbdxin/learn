@@ -99,4 +99,8 @@ add 2/4 space in front of sub-list
     message = "hello world"
     print(message)
     '''
+## directly url  
+\[learn\]\(https://www.runoob.com\)
+[learn](https://www.runoob.com)
+
 
