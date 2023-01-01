@@ -87,3 +87,10 @@ add 2/4 space in front of sub-list
 > 1. item1  
 > 2. item2  
 
+## div block in list  
+\* item1  
+    \> div block  
+
+* item1  
+    > div block  
+
