@@ -94,3 +94,9 @@ add 2/4 space in front of sub-list
 * item1  
     > div block  
 
+## code  
+    '''
+    message = "hello world"
+    print(message)
+    '''
+
