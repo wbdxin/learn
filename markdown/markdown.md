@@ -112,6 +112,7 @@ add 2/4 space in front of sub-list
 comment[text][var]  
 [var]:url  
 
-thisurl[sohu][2]  
-[2]:http://www.sohu.com  
+textlink[sohu][2]  
+[2]: http://www.sohu.com  
+
 
