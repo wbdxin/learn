@@ -111,7 +111,7 @@ add 2/4 space in front of sub-list
 ## advance url  
 comment[text][var]  
 [var]:url  
-thisurl[sohu][1]  
 
-[1]:http://www.sohu.com  
+thisurl[sohu] [2]  
+[2]:http://www.sohu.com  
 
