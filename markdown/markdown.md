@@ -100,11 +100,17 @@ add 2/4 space in front of sub-list
     print(message)
     '''
 ## url  
-\[learn\]\(https://www.runoob.com\)
+\[learn\]\(https://www.runoob.com\)  
+
 [learn](https://www.runoob.com)
 
 ## direct url  
 \<url\>  
 <https://www.runoob.com>  
 
+## advance url  
+comment[text][var]  
+[var]:url  
+thisurl[sohu][1]
+[1]:http://www.sohu.com  
 
