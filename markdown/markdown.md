@@ -116,5 +116,5 @@ textlink[sohu][2]
 [2]: http://www.sohu.com  
 
 ## pic  
-![alt test](../pic/vim.gif)
+![alt test](../pic/vim_key.gif)
 
