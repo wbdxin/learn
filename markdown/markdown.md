@@ -78,3 +78,9 @@ add 2/4 space in front of sub-list
 >> div block2  
 >>> div block3  
 
+## list in div block  
+\> div block  
+\> \1. item1  
+\> \2. item2..
+
+
